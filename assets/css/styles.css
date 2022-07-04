@@ -113,6 +113,46 @@ button {
   color: var(--light-clr-3);
   letter-spacing: 1px;
   font-size: 3.6rem;
+  /* position: relative; */
+}
+
+.title__animate{
+  position: relative;
+}
+.rotate-words{
+  display:inline;
+  font-size: 2.8rem;
+  margin-left: 0.1px;
+  color: var(--body-bg-clr);
+  /* position: absolute; */
+}
+
+.rotate-words span{
+  width: max-content;
+  position: absolute;
+  background-color: #ff46c1;
+  padding-inline: 8px;
+  opacity: 0;
+  transform-origin: 10% 75%;
+  animation: rotateWords 16s var(--d) linear infinite;
+}
+
+@keyframes rotateWords{
+  5%{
+    opacity: 1;
+  }
+  10%,
+  20%{
+    opacity: 1;
+    transform: rotate(3deg);
+  }
+  15%{
+    transform: rotate(-1deg);
+  }
+  25%{
+    opacity: 0;
+    transform: translateY(90px) rotate(10deg);
+  }
 }
 
 .tittle--main{
@@ -290,7 +330,7 @@ main{
   display: inline-block;
   font-size: 3.6rem;
   line-height: 3rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 
 .services__list-title{
