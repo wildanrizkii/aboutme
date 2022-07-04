@@ -6,7 +6,8 @@
 - BEING ABLE TO PRIORITIZE AND DELEGATE TASKS
 > “I believe patience is an important quality when it comes to working with others or when taking on any kind of project or task. Patience helps give me the ability to prioritize what needs to be done first and how best to go about doing it. During periods where I’ve felt overwhelmed, this has been one of my strengths – being able to identify what is most important.”
 
-##### [Follow my Instagram](https://www.instagram.com/wildanrizkii/)
+#### [Follow my Instagram](https://www.instagram.com/wildanrizkii/)
+
 
 
 ![Project thumbnail](./thumbnail.png)
