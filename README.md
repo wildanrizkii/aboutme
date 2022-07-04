@@ -9,4 +9,4 @@
 ##### [Follow my Instagram](https://www.instagram.com/wildanrizkii/)
 
 
-![Project humbnail](./thumbnail.png)
+![Project thumbnail](./thumbnail.png)
